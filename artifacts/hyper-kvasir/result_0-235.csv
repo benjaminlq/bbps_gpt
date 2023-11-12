@@ -1,0 +1,446 @@
+,filename,gt_score,fs_text_raw_answer,fs_text_score,gpt_classification,match
+0,f69bfb02-30c2-477c-905f-4c219dba30b1.jpg,0,"Based on the image provided, the bowel preparation would be graded as a BBPS score of 1. This is because a portion of the mucosa of the colon segment is seen, but other areas are not well seen due to the presence of residual stool that appears to be substantial. The mucosa is not completely obscured, which would warrant a score of 0, but the cleanliness is not at the level of a score of 2 or 3, where minor residual staining or a clear view of the entire mucosa would be observed, respectively.",1,0,True
+1,21ab075e-3ac3-4e8f-a455-6ca78dc5a248.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+2,be4dff9c-3f5d-40c2-8628-ee83c597b653.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well, with no solid stool present. There is a minor amount of residual staining or opaque liquid, but it does not significantly impede the view of the mucosa. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2.",2,1,False
+3,a70e990c-9ae8-44bc-8e04-92071ee88039.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image is 3.",3,1,True
+4,c6aae080-89f2-46e7-8fa9-266d57309b9c.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+5,e31b382a-cb15-4868-8d7a-de0df526c3b0.jpg,0,"The image shows a colon segment with minor amounts of residual staining and small fragments of stool. However, the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,False
+6,8d486b6b-ecb1-4bd7-992e-255d1c528bb4.jpg,0,"The image shows a colon segment with a minor amount of residual staining and small fragments of stool. However, the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2.",2,1,False
+7,b8c0fb7a-9890-4c8e-b0f6-8f30f71ced68.jpg,1,"The image shows a colon segment with minor amounts of residual staining and small fragments of stool. However, the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2.",2,1,True
+8,14b4d297-bdbd-4618-8b2a-22272387982c.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3
+
+This indicates that the entire mucosa of the colon segment is seen well, which is consistent with an optimal bowel preparation.",3,1,True
+9,0f267c69-8964-4fc1-8520-1bcc77f69eff.jpg,1,"The bowel image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+10,59724083-d25e-435f-a6cb-072055078cff.jpg,0,"The image shows a colon segment with a significant amount of residual stool that obscures the mucosa, making it difficult to see the mucosa well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.
+
+Therefore, the BBPS score for this image is 1.",1,0,True
+11,a8c90f40-1807-415c-834d-af1b6a27cdba.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is a minor amount of residual staining and a small fragment of stool, but these do not significantly obscure the view of the mucosa. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 2.",2,1,True
+12,d1135c04-6b6a-4e05-a78f-a84adc4993f4.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid visible. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 3.",3,1,True
+13,36c11d41-22ea-418c-9bde-daed302288b8.jpg,0,"Based on the image provided, the mucosa of the colon cannot be seen well due to the presence of a significant amount of residual stool that is adherent to the walls of the colon. This corresponds to a BBPS score of 0, as the mucosa is not visible due to solid stool that cannot be cleared.",0,0,True
+14,6293254a-5e63-493f-932e-067a927720d7.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+15,606566c1-9088-4081-9270-8295f9d0c58f.jpg,1,"The image shows a colon segment with the entire mucosa visible and well seen. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+16,1a27e523-42d5-43ac-b6d2-aa30b5b72e04.jpg,0,"The image shows a colon segment with a significant amount of solid stool that obscures the view of the mucosa. The mucosa cannot be seen well due to the presence of this solid stool, which cannot be cleared. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 0: Unprepared colon segment with mucosa not seen due to solid stool that cannot be cleared.",0,0,True
+17,d35559b2-f952-4ada-936a-8fd3f52cf114.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. The mucosa of the colon segment is seen well throughout the image.
+
+Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3",3,1,True
+18,c87aa286-4cac-45d1-88a5-c94c8cf0cb55.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image would be 3.",3,1,True
+19,77056847-7df8-45a7-af96-9cc97a7ecee5.jpg,0,"Based on the image provided, the mucosa of the colon can be seen, but there are areas not well seen due to residual staining and some small fragments of stool. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+Grade 2: Minor amount of residual staining, small fragments of stool and/or opaque liquid, but mucosa of colon segment seen well.",2,1,False
+20,37d4f22e-1c37-4986-8b55-b0980e781ab4.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3
+
+This indicates that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+21,9eb177cb-965e-49c4-b68f-0ce752032512.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no significant residual staining, small fragments of stool, or opaque liquid. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 3.",3,1,True
+22,e405bb75-5de6-4a25-a046-ead1ecdabcf0.jpg,0,"The image shows a colon segment with minor amounts of residual staining and some small fragments of stool. However, the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,False
+23,55244dba-8dd0-4ec0-95c6-c18230cc0bb3.jpg,0,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,False
+24,7ff1c97a-5dc1-474a-b502-0522c1ebf956.jpg,0,"Based on the image provided, the bowel preparation can be graded as follows:
+
+- There is a significant amount of residual stool and opaque liquid present.
+- The mucosa of the colon segment is partially seen, but other areas are not well seen due to the presence of stool and liquid.
+
+According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 1.",1,0,True
+25,dafd6a76-8d8e-4248-935a-e73e3e012b91.jpg,1,"The image shows a colon segment with minor amounts of residual material, which appears to be small fragments of stool. The mucosa of the colon segment is seen well despite these small fragments. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+Grade 2: Minor amount of residual staining, small fragments of stool and/or opaque liquid, but mucosa of colon segment seen well.",2,1,True
+26,4b5e527e-8aae-44d9-9227-de6fc8919d8f.jpg,1,"The bowel image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid present. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+27,0158e302-c50d-49a8-a9df-3d0eaa55c935.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There are no significant amounts of residual staining, small fragments of stool, or opaque liquid obscuring the view. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as:
+
+BBPS = 3",3,1,True
+28,c7df6c9c-e8ef-4caa-a126-f8cd01093464.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+29,1a3d98e8-6854-430e-bfce-26883b43a149.jpg,0,"Based on the image provided, the bowel preparation would be graded as a BBPS score of 1. This is because a portion of the mucosa of the colon segment can be seen, but other areas are not well seen due to the presence of residual stool and/or opaque liquid.",1,0,True
+30,ca55e081-fa22-41ee-9042-84d23312d0b6.jpg,1,"Based on the image provided, the mucosa of the colon can be seen well with some minor residual staining and small fragments of stool. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2, which indicates a minor amount of residual staining, small fragments of stool and/or opaque liquid, but mucosa of colon segment seen well.",2,1,True
+31,5d1184d7-f8f0-4800-b7c1-4117f773a3ef.jpg,0,"The image shows a colon segment with the mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3
+
+This indicates that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,False
+32,5321e4a6-8ded-4789-8cec-39dd65756ba8.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no significant residual staining, small fragments of stool, or opaque liquid obscuring the view. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as:
+
+BBPS = 3",3,1,False
+33,3354de44-a7aa-4f98-bfe9-dfcad6b8b803.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+34,0d4ce809-f576-4731-9981-8db0f874b645.jpg,0,"Based on the image provided, the mucosa of the colon can be seen, but there are areas not well seen due to residual stool and/or opaque liquid. This corresponds to a BBPS grade of 1.",1,0,True
+35,1f612583-9d69-4665-8945-a0558955a789.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well with only a minor amount of residual staining and small fragments of stool. This corresponds to a BBPS grade of 2.",2,1,False
+36,cd5dbe77-b0e9-4781-9b42-a119cad50d85.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no evidence of solid stool, and there are no significant amounts of residual staining or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS grade of 3.",3,1,True
+37,4d6b08fe-7185-4ecf-b1a6-d20d2fa1d2a3.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image is 3.",3,1,True
+38,09d12e4d-ad70-409f-98bc-15d253d2aca9.jpg,1,"Based on the image provided, the mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+39,ddaa988a-a1c6-4f1a-9278-d9dd2c9f9ae1.jpg,0,"The image shows a colon segment with a significant amount of residual stool and opaque liquid. The mucosa of the colon is partially seen, but there are areas that are not well visualized due to the presence of these materials. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+40,68a76e19-a444-4e7c-bb7d-28193754bc7a.jpg,0,"The image shows a colon segment with a significant amount of solid stool that obscures the mucosa, making it difficult to see the mucosa clearly. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 0: Unprepared colon segment with mucosa not seen due to solid stool that cannot be cleared.",0,0,True
+41,a265703a-8489-4204-883e-d08b07aa4d6f.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well, but there is a minor amount of residual staining and small fragments of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,False
+42,de93d43b-62fd-4b20-b348-dd3803482ffe.jpg,0,"The image shows a colon segment with a significant amount of residual stool obscuring the mucosa. There is a clear portion of the mucosa visible, but other areas are not well seen due to the presence of stool. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+43,88fc65c6-157a-4dc6-8721-fecd86ec075f.jpg,0,"The image shows a colon segment with the mucosa visible and well seen. There is no significant residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,False
+44,22e8fe25-5151-4167-b2bb-e175c0a11c2a.jpg,1,"Based on the image provided, the mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+45,19ed27c8-45e0-4342-9185-90038d03d5cb.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well in most areas, but there is a minor amount of residual staining and a small fragment of stool in the upper part of the image. According to the Boston Bowel Preparation Scale (BBPS), this would correspond to a Grade 2, which indicates that the mucosa of the colon segment is seen well with minor amounts of residual staining, small fragments of stool, and/or opaque liquid.",2,1,False
+46,6490aba4-1904-4768-b3f5-dbbce046712c.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well, but there is a minor amount of residual staining and small fragments of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would correspond to a Grade 2, which indicates that the mucosa of the colon segment is seen well with minor amounts of residual staining, small fragments of stool, and/or opaque liquid.",2,1,False
+47,1dc4b8ff-0452-4b74-8bb6-14fce9fd4141.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well, with no substantial residual staining, small fragments of stool, or opaque liquid. Therefore, the bowel preparation can be graded as a BBPS score of 3.",3,1,False
+48,c3987056-2ddf-4410-a34f-4a26b173d936.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+49,3fb84393-3ea9-4408-91f2-800412bee5e3.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well, but there is a minor amount of residual staining and small fragments of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2
+
+This indicates that the bowel preparation is adequate for examination, with only minor cleanliness issues that do not significantly impede the visibility of the mucosa.",2,1,False
+50,b5fa0e15-9e11-4f6c-986b-fd69b4b00878.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no solid stool, and only a minor amount of residual liquid is present. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+51,e42c8be7-b8a6-4812-b12b-6cbd5fc41618.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well with no significant residual staining, small fragments of stool, or opaque liquid. The bowel preparation appears to be of high quality, allowing for a clear view of the mucosal surface.
+
+Therefore, according to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3",3,1,False
+52,86bb0c89-9971-43dd-97e8-803899aada9c.jpg,0,"The image shows a colon segment with a significant amount of residual stool that obscures the mucosa. The mucosa cannot be seen well due to the presence of this stool. Based on the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+53,409e9209-c44a-4a3c-9e33-5eebc451f5dc.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+54,55b66a70-9d84-4917-a950-4f3a6fb3fcdc.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+55,25ed5111-26c0-4157-9bb7-99170f4731aa.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image would be 3.",3,1,True
+56,fa36a164-74fb-42a4-9494-993c488ce008.jpg,0,"Based on the image provided, the bowel preparation shows a significant amount of residual stool that is adherent to the mucosa. The mucosa of the colon segment is not well seen due to this residual stool. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+57,91a1db74-034e-4193-8636-252d93a02920.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well, with only a minor amount of residual staining and a small fragment of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+BBPS = 2
+
+This indicates that the bowel preparation is adequate, with minor limitations that do not significantly impact the ability to inspect the mucosa.",2,1,True
+58,05fe3989-8f9c-45d6-a4be-1ae2f5abce6e.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+59,55c2f412-a8f1-49fe-8354-1e424d40c068.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well, with no substantial residual staining, small fragments of stool, or opaque liquid. The bowel preparation appears to be of high quality, allowing for a clear view of the mucosal surface.
+
+Therefore, the BBPS score for this bowel image would be 3.",3,1,False
+60,ba730caf-64aa-4287-9b31-bc8c3aa9cf3d.jpg,1,"The image shows a colon segment with a minor amount of residual staining and small fragments of stool. However, the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,True
+61,d7ea6262-67f7-45ab-b9ba-bccd55c341cf.jpg,0,"The image provided shows a colon segment with a significant amount of solid stool that obscures the mucosa, making it difficult to see the mucosal surface well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 0: Unprepared colon segment with mucosa not seen due to solid stool that cannot be cleared.
+
+Therefore, the BBPS score for this image is 0.",0,0,True
+62,85bb6eb5-25c7-4f37-8193-7729e0ec3b87.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image is 3.",3,1,True
+63,1e684368-a77f-489f-99ca-9710ff8ecffd.jpg,1,"The bowel image provided shows a colon segment that appears to be well-cleansed. The mucosa of the colon can be seen clearly with no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+64,c9e2121d-df8e-4216-8f11-5b8f61b97f52.jpg,0,"Based on the image provided, the bowel preparation shows a portion of the mucosa of the colon segment that is seen well, but there are other areas of the colon segment not well seen due to staining, residual stool, and/or opaque liquid. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of 1.",1,0,True
+65,6ee2bfe6-3fed-4aee-8761-9b2843185863.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+66,5bde0369-38dd-4ce6-bda0-9f48c26be18e.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+67,1eceba6b-cf81-4b80-a48e-8f627d207516.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+68,ee0c0400-31a4-49ca-a2d9-ae03eabc31d5.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+69,0b9e3600-3a4a-483f-8480-c1a126e903d6.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+70,7e3341a3-659b-4b75-93f1-995c7512602a.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+71,e5866fac-e5e4-47a0-88eb-7e339ad112fe.jpg,0,"Based on the image provided, the bowel preparation can be graded as follows:
+
+- There is a minor amount of residual staining and small fragments of stool visible.
+- The mucosa of the colon segment can be seen well despite these minor impurities.
+
+According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2, which indicates that the mucosa of the colon segment is seen well with a minor amount of residual staining, small fragments of stool, and/or opaque liquid.",2,1,False
+72,6a81fe56-8f7a-4426-8903-c631fb76402b.jpg,1,"The image shows a colon segment with the entire mucosa visible and well-seen. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+73,ceebcfff-5e9c-48e0-864e-21fbd9a70ee4.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+74,d48f6c28-798f-400a-949c-0946845b6177.jpg,0,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,False
+75,78110422-7685-4b93-87b3-d583592f6088.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+76,525f7e34-6d72-4304-bca9-54328d01eea6.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, and only a very small fragment of stool is visible. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+77,b4a970b2-e483-4960-8829-c621872fec0c.jpg,0,"Based on the image provided, the bowel preparation quality can be assessed as follows:
+
+- There is a significant amount of yellowish-brown material that appears to be residual stool or opaque liquid.
+- The mucosa of the colon is partially visible, but large areas are not well seen due to the presence of this material.
+
+According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.
+
+Therefore, the BBPS score for this image is 1.",1,0,True
+78,e767fc5d-b43f-4585-8309-df336560541a.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There are minor amounts of residual staining and a small fragment of stool, but these do not significantly obscure the view of the mucosa. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 2",2,1,True
+79,25dc9c9c-6cf6-4404-9e74-7e477dd3c4db.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well, but there is a minor amount of residual staining and a small fragment of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2
+
+This indicates that the bowel preparation is adequate, with only a minor amount of residue not significantly interfering with the ability to inspect the mucosa.",2,1,False
+80,b8052b6a-b292-4ebc-b1f5-230dab9e8234.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+81,d854a848-f166-4a9e-a2d1-ae2ce7d674ea.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+82,1c4a1b0d-8605-4867-8836-1da68de310e4.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+83,4528362f-a3d5-4d04-8c88-5c8d72687e39.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid present. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+84,f4965691-97c5-4273-beed-1d187e613437.jpg,0,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,False
+85,0cfa088c-a5cc-41d9-8ad0-2838a9633a59.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no evidence of residual stool, opaque liquid, or significant staining. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+86,c337283f-814c-4f95-b8e2-063025b3d07e.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+87,58ae9084-1bd0-4a12-a73d-baebc963bfec.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a BBPS score of 3.",3,1,True
+88,e5ac31dd-62ba-4974-bb8b-d8b6e00dd9d0.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+89,47741d9a-3626-438e-9004-3d5d46394a1d.jpg,0,"The image shows a colon segment with a minor amount of residual staining and small fragments of stool. However, the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,False
+90,f66d9f0e-36ea-498f-866b-d9ccf44ed485.jpg,1,"The image shows a colon segment with a minor amount of residual staining and a small fragment of stool, but the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,True
+91,147fff56-eea1-42bd-b28f-eddaf78fbce2.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+92,2d67c4f9-5a14-4239-8c10-dac29c798ab6.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+93,96866316-08b3-452d-a5be-99b68b3e8b39.jpg,1,"The image shows a colon segment with the entire mucosa visible and well-seen. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+94,20415caa-198b-4cdc-aa9a-a62d4ab96dfd.jpg,0,"The image shows a colon segment with minor amounts of residual staining and small fragments of stool. The mucosa of the colon segment is seen well. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2.",2,1,False
+95,8ab4e7b4-5f3e-464a-aaa6-2f544cb61bbc.jpg,1,"The image shows a colon segment with the mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+96,b5fc55e6-2379-4f6a-b013-f27179403d7f.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image would be:
+
+BBPS = 3",3,1,True
+97,55c82688-74bb-416b-bf8d-989b6877eeba.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+98,5b454068-df41-4b9c-adab-4ce03fd3ec04.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid visible. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as:
+
+BBPS = 3",3,1,True
+99,2292c6c4-9110-4ef3-a7f2-a04708120dda.jpg,0,"The image shows a colon segment with a minor amount of residual staining and small fragments of stool. However, the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2.",2,1,False
+100,e09c5967-3196-4e64-817a-f81a7c3f1719.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS grade for this bowel image is 3.",3,1,True
+101,00fe7eb3-59ad-4c1d-96c3-b67535bd2807.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+102,739b2a95-e308-415f-9c58-1bf5b3801402.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+103,cd90e934-7eba-4345-a50c-209615d34aa0.jpg,1,"The image shows a colon segment with the entire mucosa visible and well-seen. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+104,1e2796bd-4d8c-45b9-a5fd-6af73779d41e.jpg,0,"Based on the image provided, the bowel preparation can be graded as follows:
+
+- There is a minor amount of residual staining and small fragments of stool visible.
+- The mucosa of the colon segment can be seen well despite these minor impurities.
+
+According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2, which indicates that the mucosa of the colon segment is seen well, with only a minor amount of residual staining, small fragments of stool, and/or opaque liquid present.",2,1,False
+105,d342c55b-c6a5-4fb8-afa3-c791067f9ff2.jpg,0,"The image shows a colon segment with a minor amount of residual staining and small fragments of stool, but the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 2",2,1,False
+106,4ebce451-db99-4936-bd09-88dd50c01fdf.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid visible. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as:
+
+BBPS = 3",3,1,True
+107,3ad64424-889f-405d-853c-b4e05a140a20.jpg,0,"The image shows a colon segment with a significant amount of residual stool that is obscuring the view of the mucosa. There is also some opaque liquid present. However, a portion of the mucosa can be seen, which suggests that the bowel preparation is not completely inadequate.
+
+Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+108,4f59cbb1-cb0a-41ce-9b7a-fe691c3bb12c.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+109,b1b570b8-ff0e-4fc4-b147-bf2e87778c40.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+110,bb66eba8-b6a3-4503-85a0-c3aa30b87721.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image would be 3.",3,1,True
+111,74950114-c855-498c-b6de-30dd5577f7d5.jpg,1,"The bowel image provided shows a colon segment with the entire mucosa seen well. There are no significant amounts of residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+112,37b920cf-f23c-4a4b-98ae-e41701b2aa9a.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+113,b600dfe8-3888-4277-bd58-5a2d659216a4.jpg,0,"Based on the image provided, the bowel preparation would be graded as a BBPS score of 1. This is because a portion of the mucosa of the colon segment is seen, but other areas are not well seen due to the presence of staining, residual stool, and/or opaque liquid.",1,0,True
+114,8632e54c-885b-4e3a-8fe7-53a23fc9a856.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well, with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the bowel preparation can be graded as BBPS 3.",3,1,False
+115,4d72f991-b2d8-4f14-98d4-1a637cd86ce6.jpg,0,"The image shows a colon segment with minor amounts of residual staining and some small bubbles, but the mucosa of the colon can be seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2
+
+This is because the mucosa is visible and the amount of residual material does not significantly impede the view of the mucosal surface.",2,1,False
+116,42935957-f29d-497c-9742-9974f2db5222.jpg,0,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3
+
+This indicates that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,False
+117,7b8ca7de-3c6b-45cc-83e2-7bc2441b3b87.jpg,1,"The image shows a colon segment with the entire mucosa visible and well-seen. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+118,f48482b4-d8cb-400a-9c39-250b35aca824.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+119,78aa25bd-c7c1-4c45-b3d4-ca851accfcc0.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+120,631bcf12-7385-47bd-ba6e-76bd71219043.jpg,1,"The bowel image provided shows a colon segment that appears to be well-cleansed. The mucosa of the colon can be seen clearly with no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3
+
+This indicates that the entire mucosa of the colon segment is seen well, which is consistent with an optimal preparation for colonoscopy.",3,1,True
+121,74d0a8bc-9c0f-420d-95b0-6307380cedc6.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+122,6132bba0-52d5-48ff-8ca6-4f04f4d955f4.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+123,194782b3-a316-4c51-af38-de57312db96c.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well with only a minor amount of residual staining and small fragments of stool. This corresponds to a BBPS grade of 2.",2,1,False
+124,977144fc-1e98-436a-96f0-5a91d93c89a7.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well with no solid stool present. There are minor amounts of residual staining and small fragments of stool or opaque liquid. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 2
+
+This is because the mucosa is visible, but there are minor imperfections in the cleansing, such as the small fragments and slight staining noted.",2,1,False
+125,b9a0d08a-30af-49e7-8cc4-6ffa077d3cbd.jpg,1,"Based on the image provided, the mucosa of the colon can be seen well, with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS grade for this bowel image is 3.",3,1,True
+126,d55541d8-3482-4134-a695-75292baf0de4.jpg,0,"Based on the image provided, the mucosa of the colon can be seen fairly well, but there is a minor amount of residual staining and some small fragments of stool. According to the Boston Bowel Preparation Scale (BBPS), this would correspond to a Grade 2, which indicates that the mucosa of the colon segment is seen well with a minor amount of residual staining, small fragments of stool, and/or opaque liquid.",2,1,False
+127,858ddfae-8556-4c6d-9b8e-bad04c1ad34e.jpg,0,"The image shows a colon segment with a significant amount of solid stool that obscures the mucosa, making it difficult to see the mucosa clearly. This corresponds to a BBPS grade of 0, as the mucosa is not seen due to solid stool that cannot be cleared.",0,0,True
+128,0dd7f602-d940-46b7-9d8e-5a4a9e6dda87.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+129,95953ac3-de51-4a75-9a0e-9defddad0805.jpg,0,"The image shows a colon segment with a significant amount of solid stool that obscures the mucosa, making it not visible. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 0: Unprepared colon segment with mucosa not seen due to solid stool that cannot be cleared.",0,0,True
+130,d392d506-1525-4d77-aea7-2c4ad10a615f.jpg,1,"Based on the image provided, the mucosa of the colon can be seen well with only a minor amount of residual staining and small fragments of stool. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 2
+
+This is because the mucosa is visible and the amount of residual material does not significantly impede the view of the mucosa.",2,1,True
+131,5d08345b-aeed-4fb2-9f61-c3b6284b874b.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+132,0d8a5e7c-af15-4aa4-a543-4693562030d2.jpg,0,"The image shows a colon segment with a significant amount of residual stool that is adherent to the mucosa, obscuring the view of the entire mucosa. However, some portions of the mucosa can be seen, which suggests that it is not a completely unprepared colon segment. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+133,7f8cf5e6-5abd-45b2-b72d-d421e8e3a36b.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well, with no substantial residual staining, small fragments of stool, or opaque liquid. Therefore, the bowel preparation can be graded as BBPS 3.",3,1,False
+134,10f5434d-ddd5-4d95-865c-47eafa92e9e7.jpg,0,"The image provided shows a colon segment with clear visibility of the mucosa. There is no evidence of residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,False
+135,1923c819-c2ba-4fac-a7a6-c6f88f27243d.jpg,0,"The image shows a colon segment with a minor amount of residual stool in the upper part of the image. However, the majority of the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+Grade 2: Minor amount of residual staining, small fragments of stool and/or opaque liquid, but mucosa of colon segment seen well.",2,1,False
+136,80d14153-662e-4a6b-9be4-381721b04090.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well.
+
+Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3",3,1,True
+137,76c258af-5da7-47cb-8709-b1447fc9b68f.jpg,1,"The bowel image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+138,7f6d3795-69fb-4dda-ab0e-71e0471ed977.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There are no significant amounts of residual staining, small fragments of stool, or opaque liquid obscuring the view. Therefore, the bowel preparation can be graded as:
+
+BBPS grade 3: Entire mucosa of colon segment seen well with no residual staining, small fragments of stool or opaque liquid.",3,1,True
+139,e295c7a6-f974-4017-9560-ce150523d108.jpg,1,"Based on the image provided, the mucosa of the colon can be seen well, but there is a minor amount of residual stool present. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS Grade 2: Minor amount of residual staining, small fragments of stool and/or opaque liquid, but mucosa of colon segment seen well.",2,1,True
+140,6f605039-2cd3-4193-95e3-d386252dc22b.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen, but there are areas not well seen due to staining and residual stool. This corresponds to a BBPS grade of 1.",1,0,True
+141,47994d13-1383-4d59-b4f8-71ad96b70bbd.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+142,e3f8e30a-62fa-454a-97ae-fae3dc63d5c5.jpg,0,"Based on the image provided, the mucosa of the colon cannot be seen well due to the presence of solid stool that cannot be cleared. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 0.",0,0,True
+143,2cb4d84f-56f5-467e-92b1-b4f666e8df89.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+144,e4b2e940-4ce3-4257-bd4b-ea6adf4e6778.jpg,1,"Based on the image provided, the mucosa of the colon can be seen well with only a minor amount of residual staining and small fragments of stool. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2, which indicates that the mucosa of the colon segment is seen well with a minor amount of residual staining, small fragments of stool, and/or opaque liquid.",2,1,True
+145,d085fcc7-4b1f-47f3-822b-8e3df75afe82.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a BBPS grade of 3.",3,1,True
+146,11c83313-c3d2-4a6d-b3aa-99338950408b.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+147,1414ebab-500a-486a-a5b0-a03adf6d47b8.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well, with only a minor amount of residual staining and small fragments of stool. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 2
+
+This is because the mucosa is visible and the amount of residual material does not significantly impair the view, fitting the criteria for a grade of 2.",2,1,True
+148,b1b1938d-fb41-443b-87f1-1de7bc7c93e9.jpg,0,"The image shows a colon segment with a minor amount of residual staining and small fragments of stool. However, the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 2",2,1,False
+149,c0653ca3-aeb6-4471-be84-88ad42a12eb8.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a BBPS grade of 3.",3,1,True
+150,860a3f9a-3a52-4ad6-ba9d-0d209c294013.jpg,1,"The image shows a colon segment with a minor amount of residual staining and small fragments of stool, but the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,True
+151,2ba3c33b-be39-4b02-ba1d-657706761110.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+152,f56c328e-1cbb-4fff-b2fa-6ee501bc1f6c.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+153,e408ef6d-54a0-4b3a-a598-5b99a32a1670.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+154,829573bf-5a4d-4710-87a4-6dd8bc9391b4.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+155,2d35200f-1a6b-44e6-aa2a-ff28edaf7b96.jpg,0,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,False
+156,87633a03-3985-4ca7-bd9d-09a100d6884b.jpg,0,"The image shows a colon segment with a significant amount of residual stool that obscures the mucosa. There is also some opaque liquid present. However, a portion of the mucosa can be seen, which suggests that the bowel preparation is not completely inadequate. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+157,f6399aeb-aef8-4945-981b-fb9524d630cf.jpg,0,"Based on the image provided, the mucosa of the colon can be seen, but there are areas not well seen due to residual staining and some small fragments of stool. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+BBPS = 2
+
+This indicates a minor amount of residual staining and small fragments of stool, but the mucosa of the colon segment is seen well.",2,1,False
+158,6fce82c7-ec4b-4b29-bb3a-376b12eea498.jpg,0,"Based on the image provided, the bowel preparation shows a significant amount of residual staining and some small fragments of stool, but the mucosa of the colon segment can be seen fairly well. According to the Boston Bowel Preparation Scale (BBPS), this would correspond to a Grade 2, which indicates a minor amount of residual staining, small fragments of stool and/or opaque liquid, but mucosa of colon segment seen well.",2,1,False
+159,e9167bcd-05cb-4344-b753-a459730648ff.jpg,0,"The image shows a colon segment with minor amounts of residual staining and small fragments of stool. The mucosa of the colon segment is seen well. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2.",2,1,False
+160,dbfeca2a-777f-449e-86e7-c73af709ccf5.jpg,1,"The bowel image provided shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+161,de276989-e0b4-4003-9ed2-9caead3fb733.jpg,1,"Based on the image provided, the mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+162,f7df9066-d8d8-45d4-88f7-f4d0a3b3a5fb.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+163,9b70d08b-f504-44f8-9168-a78e717116f7.jpg,0,"The image shows a colon segment with a minor amount of residual staining and a small fragment of stool, but the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,False
+164,d78cd19b-8c9d-4e19-bade-a9f6aa7edd95.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image is 3.",3,1,True
+165,be2d8b2c-1b23-4905-88b9-7e641e9a6792.jpg,0,"The image provided shows a colon segment with clear visibility of the mucosa. There is no solid stool present, and there appears to be minimal to no residual staining or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,False
+166,4bc3c2a5-2259-49b3-bf19-54f324e8e3cb.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+167,2ca0144d-d1cf-48bd-bef2-026730f55604.jpg,0,"Based on the image provided, the mucosa of the colon cannot be seen well due to the presence of a significant amount of residual stool that covers the mucosa. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 0.",0,0,True
+168,19086b55-9e2a-498e-a44a-f9ab4013cadc.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+169,40529a38-97a9-49a8-8042-b3046bb94a57.jpg,0,"The image shows a colon segment with a significant amount of residual stool that is adherent to the mucosa, obscuring a complete view of the mucosal surface. However, some portions of the mucosa can be seen, indicating that the bowel preparation is not completely inadequate. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+170,cee91e1e-dc7f-4470-bbc1-12c02e0f626a.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image would be 3.",3,1,False
+171,2e4664a7-75f5-42ea-b8ef-9befeda14822.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+172,cb83ed3d-6823-4f5d-ad63-6cf5bdbfd68a.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image is 3.",3,1,True
+173,859b187d-fccc-4415-9c03-e23206322114.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+174,91c9b962-7b10-443d-bd8c-bae4f16e852f.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+175,06f66bf0-34d5-4526-a3cd-572a3ce1c8f8.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 3.",3,1,True
+176,162f8f63-7a0e-468d-9548-5b0db5f5ecc8.jpg,0,"The image shows a colon segment with a minor amount of residual staining and a small fragment of stool, but the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,False
+177,318211b3-8afb-4025-b067-436d2934fc1f.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+178,14b385df-64b7-441e-9b70-540a7e9a4073.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no significant residual staining, small fragments of stool, or opaque liquid that obscures the view of the mucosa. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 3.",3,1,True
+179,67ec223d-bc15-4c3e-96e7-6b49b5d5bbc8.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well, but there is a minor amount of residual staining and small fragments of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would correspond to a Grade 2.",2,1,True
+180,5578a228-81a0-46fd-910a-09001348de27.jpg,0,"Based on the image provided, the mucosa of the colon can be seen well, but there is a minor amount of residual staining and small fragments of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+BBPS = 2
+
+This indicates that the bowel preparation is adequate, with only a minor amount of residue not significantly interfering with the ability to inspect the mucosa.",2,1,False
+181,8aa2d88a-276f-43fd-a454-73867e1ccb0e.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid visible. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 3.",3,1,True
+182,2a4f7ecc-a15f-4a43-9c0d-36ff8aa5075b.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the Boston Bowel Preparation Scale (BBPS) score for this image would be a 3.",3,1,False
+183,537629ad-3d75-4fac-9f57-09188b61251a.jpg,1,"The image shows a colon segment with the mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+184,40c21ae2-9f15-42fd-8d66-cc2e38aba0ec.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+185,c83f8804-9637-4f18-992c-3ab3df29710c.jpg,1,"I'm sorry, but I cannot provide assistance with that request.",,-1,False
+186,792026f5-a2f8-4cbe-bba2-eb5a6f216a50.jpg,0,"The image shows a colon segment with a minor amount of residual staining and small fragments of stool, but the mucosa of the colon segment is seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+BBPS = 2",2,1,False
+187,804f6834-639f-408d-922f-1dbca9985746.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+188,3eb7c8eb-0598-4ec6-a4bd-9550aef51756.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid present. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+189,94ec29d4-6940-40d8-af7a-16c8979e6809.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3",3,1,True
+190,416ea9ef-2dbc-4fae-a66e-9dd78b0f73ac.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid visible. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as:
+
+BBPS = 3",3,1,True
+191,049208cc-a5f6-4fd4-9cc5-4713ddb51f7e.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+192,d8027d3d-f2f9-4272-ad77-ae9ebdacf69e.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+193,c167eeb8-679e-4e1b-baf2-814ecabdc8a5.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+194,d72d85c4-0b63-49dd-8718-ddd17b24e8ab.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no significant residual staining, small fragments of stool, or opaque liquid obscuring the view. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 3.",3,1,True
+195,09c46de1-a627-4ca7-97c3-8ec87f6b3335.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+196,b8ff183e-e701-49a0-ac7b-bfab3a11cc85.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+197,a698f87d-7c54-42f6-9da0-00455f241725.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid visible. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 3.",3,1,True
+198,64961719-edeb-4ce8-9177-7ad112dd682b.jpg,1,"The image shows a colon segment with the entire mucosa visible and well-seen. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+199,64bdcd29-daa3-4c03-a199-25354feb6a47.jpg,0,"Based on the image provided, the bowel preparation shows a significant amount of residual stool that obscures the mucosa of the colon. The mucosa cannot be seen well due to the presence of this solid stool. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 0: Unprepared colon segment with mucosa not seen due to solid stool that cannot be cleared.
+
+Therefore, the BBPS score for this bowel image is 0.",0,0,True
+200,7eff2ebc-b781-4242-857a-fc54d475648d.jpg,0,"The image shows a segment of the colon with a significant amount of residual stool that is obscuring the view of the mucosa. There is a clear portion of the mucosa visible, but the majority of the image is dominated by stool that would likely interfere with a thorough examination. Based on the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+201,2ff6dc15-4959-468a-ad3a-3c752e0dc00a.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well, with only a minor amount of residual staining and a small fragment of stool present. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 2
+
+This is because the mucosa is mostly visible, with only a minor amount of stool and staining not significantly interfering with the visibility of the mucosa.",2,1,False
+202,3de25207-45ec-42b3-9b3f-b93271250ca6.jpg,1,"The image shows a colon segment with a minor amount of residual stool, but the mucosa of the colon can be seen well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 2: Minor amount of residual staining, small fragments of stool and/or opaque liquid, but mucosa of colon segment seen well.",2,1,True
+203,aa87e845-f8ae-4ff7-b4af-0a3a8c5e508d.jpg,0,"The image provided is of poor quality and does not allow for a clear assessment of the bowel preparation. The mucosa of the colon cannot be seen well due to the presence of material that could be either residual stool or opaque liquid. However, due to the lack of clarity and the inability to see the mucosa properly, I cannot accurately assign a Boston Bowel Preparation Scale (BBPS) grade to this image. If this were a real clinical situation, it would likely necessitate a repeat of the bowel preparation and possibly another colonoscopy to ensure a thorough examination.",,-1,False
+204,c7cc8f23-cbd7-4c8f-aae6-e07bb423d426.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+205,d321b3bb-a6d0-4319-90c7-9d95c643920a.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image is 3.",3,1,True
+206,bc790fb8-d561-47d6-af3f-0932c2859006.jpg,0,"Based on the image provided, the mucosa of the colon can be partially seen, but there are areas that are not well seen due to the presence of residual stool and/or opaque liquid. This corresponds to a BBPS grade of 1.",1,0,True
+207,b5c5438b-4185-4a53-b0b8-5f3386137594.jpg,0,"The image shows a colon segment with a significant amount of residual stool that is obscuring the view of the mucosa in a large portion of the visualized area. There is also some opaque liquid present. However, a portion of the mucosa can be seen, which suggests that the bowel preparation is not completely inadequate.
+
+Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+Grade 1: Portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen due to staining, residual stool and/or opaque liquid.",1,0,True
+208,1a5537bc-42c2-4423-92db-fcd270bb5062.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well, with only a minor amount of residual staining and a small fragment of stool present. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2, which indicates that the mucosa of the colon segment is seen well with a minor amount of residual staining, small fragments of stool, and/or opaque liquid.",2,1,False
+209,4fb2b288-9d16-416e-97f7-cb63fc62cf60.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as:
+
+BBPS = 3",3,1,True
+210,70437f59-9e9c-4e51-928a-b58d818296e7.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid obscuring the view. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+211,400eb7db-e30a-4741-a368-970489354862.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well, with only a minor amount of residual staining and a small fragment of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would be consistent with a score of:
+
+BBPS = 2
+
+This indicates that the bowel preparation is adequate, with minor limitations that do not significantly impact the ability to inspect the mucosa.",2,1,False
+212,62999de6-65cd-45f2-96ce-35c609cec786.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as a 3.",3,1,True
+213,d767bd41-4c4b-4127-aad1-2fc67d514212.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+214,e95b840a-3251-4fde-95bc-b1b9ea80027a.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+215,9f250a27-dc85-493a-8b43-2628471c557a.jpg,0,"Based on the image provided, the mucosa of the colon segment can be seen well, but there is a minor amount of residual staining and small fragments of stool present. According to the Boston Bowel Preparation Scale (BBPS), this would correspond to a Grade 2, which indicates that the mucosa of the colon segment is seen well with minor amounts of residual staining, small fragments of stool, and/or opaque liquid.",2,1,False
+216,82488caa-7dc5-4997-b362-b25f1396f483.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no solid stool, and only a minor amount of residual fluid is present. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+217,e5753982-ee6e-4fee-9b34-5d631fa2d7d4.jpg,0,"The image shows a colon segment with a significant amount of solid stool that obscures the mucosa, making it difficult to see the mucosal surface well. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 0: Unprepared colon segment with mucosa not seen due to solid stool that cannot be cleared.
+
+BBPS score for this image: 0",0,0,True
+218,d3d27891-150f-49d1-9d11-44cff374aa7d.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image would be 3.",3,1,True
+219,0f4147df-9681-4486-a598-8713720c5413.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well, with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image would be 3.",3,1,True
+220,9136cf81-3a1c-4606-bf16-7fa4a7437455.jpg,0,"Based on the image provided, the mucosa of the colon can be seen, but there are areas not well seen due to the presence of some residual stool and/or opaque liquid. This corresponds to a BBPS grade of 1, where a portion of the mucosa of the colon segment is seen, but other areas are not well seen due to staining, residual stool, and/or opaque liquid.",1,0,True
+221,07e9824b-38d8-48ac-875d-be6783e9745b.jpg,1,"Based on the image provided, the mucosa of the colon can be seen well, with only a minor amount of residual staining and a small fragment of stool present. According to the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 2, which indicates that the mucosa of the colon segment is seen well with a minor amount of residual staining, small fragments of stool, and/or opaque liquid.",2,1,True
+222,aa9e6907-df5d-4485-bb1f-7d20373002ab.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image would be 3.",3,1,True
+223,a69cb7c8-88db-4959-9a10-615daca2a07c.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+224,0d1797b1-db98-41e4-9251-8ae3f832e4aa.jpg,1,"Based on the image provided, the mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a BBPS grade of 3.",3,1,True
+225,cfa4c35e-0125-46b0-8c3d-7030d6ee8d0a.jpg,1,"The image provided shows a colon segment with a clear view of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. The mucosa of the colon segment is seen well, which corresponds to a BBPS grade of 3.",3,1,True
+226,f5a4293f-67b0-4379-bc81-2b1e65e20e8d.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well, with no significant residual staining, small fragments of stool, or opaque liquid. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as:
+
+BBPS = 3",3,1,True
+227,8ca692c0-a425-482d-8f5a-49ab13869159.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. This corresponds to a Boston Bowel Preparation Scale (BBPS) score of 3.",3,1,True
+228,1e942da6-fd5c-49df-9b77-cdc119bc1cf9.jpg,1,"The image shows a colon segment with the entire mucosa seen well. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+229,d3cf9c3f-8b01-415e-be44-a3483a40e6e2.jpg,1,"The image shows a colon segment with the entire mucosa visible and well-seen. There is no residual staining, small fragments of stool, or opaque liquid. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3.",3,1,True
+230,05560213-745b-4cc0-b136-3bcde8ba4f05.jpg,1,"The image shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid. The mucosa of the colon segment is seen well, which corresponds to a BBPS score of 3.",3,1,True
+231,7c028cd1-8096-45a5-bbdd-db7fb9e22bfb.jpg,0,"Based on the image provided, the bowel preparation shows a significant amount of residual stool that is obscuring the mucosa of the colon. The mucosa cannot be seen well due to the presence of this solid stool. According to the Boston Bowel Preparation Scale (BBPS), this would be graded as:
+
+Grade 0: Unprepared colon segment with mucosa not seen due to solid stool that cannot be cleared.
+
+Therefore, the BBPS score for this image is 0.",0,0,True
+232,1f8af1c1-8f3a-4d94-9782-1d5fa4d0cc8c.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well. There is no residual staining, small fragments of stool, or opaque liquid that significantly obscures the view of the mucosa. Therefore, according to the Boston Bowel Preparation Scale (BBPS), this bowel preparation would be graded as:
+
+BBPS = 3",3,1,True
+233,bd65b389-091b-441f-bf4d-3108ffd7f424.jpg,1,"The image provided shows a colon segment with clear visibility of the mucosa. There is no residual staining, small fragments of stool, or opaque liquid visible. Based on the Boston Bowel Preparation Scale (BBPS), this image would be graded as a 3, indicating that the entire mucosa of the colon segment is seen well with no residual staining, small fragments of stool, or opaque liquid.",3,1,True
+234,92f03d99-6c5e-4502-a3b3-37b202cfb8fc.jpg,1,"Based on the image provided, the mucosa of the colon segment can be seen well with no residual staining, small fragments of stool, or opaque liquid. Therefore, the BBPS score for this bowel image is 3.",3,1,True

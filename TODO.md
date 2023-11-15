@@ -1,0 +1,3 @@
+- Week 2/2023: BBPS with Text & Descriptions
+- Week 3/2023: Only prompt, no few-shot examples
+- Week 4/2023: Only Images & Resize the few shot image to 512 x 512

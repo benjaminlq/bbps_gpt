@@ -8,7 +8,7 @@ TASK:
 You are given an image of a bowel after cleansing, your task is to assess the quality of the bowel preparation.
 The grading should be performed using the standardized Boston-Bowel-Preparation-Scale (BBPS). Perform the following step:
 1. Analyse the given image and identify the degree of stool and residual staining and whether mucosa of colon can be seen well.
-2. Based on the GRADING CRITERIA and EXAMPLES given, return the BBPS grade for the given image. Can be one of [0, 1, 2, 3]
+2. Based on the GRADING CRITERIA, return the BBPS grade for the given image. Can be one of [0, 1, 2, 3]
 =====
 GRADING CRITERIA: Use the following BBPS Grading Criteria to determine the Grade of the given bowel image.
 Grade 0: Unprepared colon segment with mucosa not seen due to solid stool that cannot be cleared

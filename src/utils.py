@@ -3,6 +3,8 @@ import io
 import json
 import math
 import os
+import sys
+import logging
 
 from callbacks import TokenCounter
 from openai import OpenAI
@@ -113,3 +115,33 @@ def save_checkpoint(
         os.makedirs(ckpt_folder, exist_ok=True)
     with open(os.path.join(ckpt_folder, "ckpt.json"), "w") as f:
         json.dump(content, f)
+
+def get_experiment_logs(description: str, log_folder: str):
+    logger = logging.getLogger(description)
+
+    stream_handler = logging.StreamHandler(sys.stdout)
+
+    if not os.path.exists(log_folder):
+        os.makedirs(log_folder, exist_ok=True)
+
+    file_handler = logging.FileHandler(filename=os.path.join(log_folder, "logfile.log"))
+
+    formatter = logging.Formatter("%(asctime)s:%(levelname)s: %(message)s")
+    file_handler.setFormatter(formatter)
+    stream_handler.setFormatter(formatter)
+
+    logger.setLevel(logging.INFO)
+    logger.addHandler(stream_handler)
+    logger.addHandler(file_handler)
+    
+    return logger
+
+def classify(score):
+    if score == 0 or score == 1:
+        return 0
+    elif score == 2 or score == 3:
+        return 1
+    elif score == -1:
+        return -1
+    else:
+        ValueError("Invalid Score")

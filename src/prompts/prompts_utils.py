@@ -40,7 +40,7 @@ def get_gpt4v_messages(
                      "image_url": {"url": sample_img_url, "detail": "high"}},
                     ]
                 }
-            messages += example_content
+            messages.append(example_content)
     
     query_img_url = generate_img_url(query_img_path, resize=query_resize)
     query_content = {
@@ -52,6 +52,6 @@ def get_gpt4v_messages(
             ]
         }
     
-    messages += query_content
+    messages.append(query_content)
     
     return messages

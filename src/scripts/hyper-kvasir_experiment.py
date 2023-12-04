@@ -21,7 +21,10 @@ def get_argument_parser():
     parser.add_argument("--checkpoint", "-k", type=str, default=None, help="Path to previous checkpoint")
     parser.add_argument("--temperature", "-t", type=float, default=0, help="Temperature setting for generative model")
     parser.add_argument("--max_tokens", "-tk", type=int, default=512, help="Maximum number of generated tokens")
-    parser.add_argument("--max_tokens", "-tk", type=str, default="exp", help="experiment description")
+    parser.add_argument("--description", "-d", type=str, default="exp", help="experiment description")
+    parser.add_argument("--query_resize", "-qr", type=bool, default=True, help="Whether to resize query images") 
+    parser.add_argument("--example_resize", "-er", type=bool, default=False, help="Whether to resize example images")
+
     args = parser.parse_args()
     return args
     
@@ -35,6 +38,8 @@ def main():
     checkpoint = args.checkpoint
     prompts_path = args.prompts
     examples_path = args.examples
+    query_resize = "auto" if args.query_resize else None # Currently only support auto resizing.
+    example_resize = "auto" if args.example_resize else None # Currently only support auto resizing.
 
     with open(os.path.join(MAIN_DIR, "auth", "api_keys.json"), "r") as f:
         api_keys = json.load(f)
@@ -42,7 +47,7 @@ def main():
     openai.api_key = api_keys["OPENAI_API_KEY"]
     os.environ["OPENAI_API_KEY"] = api_keys["OPENAI_API_KEY"]
     
-    logger = get_experiment_logs(description)
+    logger = get_experiment_logs(description, log_folder=output_folder)
     
     logger.info(f"Running testcase from path {testcase_path}")
     if os.path.exists(testcase_path):
@@ -51,10 +56,8 @@ def main():
             all_file_paths = data.split("\n") 
     filenames = [path.split("/")[-1] for path in all_file_paths]
     
-    save_folder = os.path.join(output_folder)
-
-    if not os.path.exists(save_folder):
-        os.makedirs(save_folder, exist_ok=True)
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder, exist_ok=True)
     
     if checkpoint:
         with open(checkpoint, "r") as f:
@@ -75,9 +78,9 @@ def main():
     
     with open(prompts_path, "r") as f:
         prompts = json.load(f)
-        system_prompt = prompts["system"]
-        query_prompt = prompts["query"]
-        example_prompt = prompts["example"]        
+        system_prompt = prompts.get("system")
+        query_prompt = prompts.get("query")
+        example_prompt = prompts.get("example")      
     
     if examples_path and os.path.isdir(examples_path):
         examples_path = [os.path.join(examples_path, filename) for filename in examples_path] 
@@ -92,10 +95,10 @@ def main():
                 query_img_path=query_img_path,
                 system_prompt=system_prompt,
                 query_prompt=query_prompt,
-                query_resize="auto",
+                query_resize=query_resize,
                 example_images=examples_path,
                 example_prompt=example_prompt,
-                example_resize="auto"
+                example_resize=example_resize
             )
 
             gptv_response = client.chat.completions.create(
@@ -136,7 +139,7 @@ def main():
                 }
             )
             
-    with open(os.path.join(save_folder, f"result.json"), "w") as f:
+    with open(os.path.join(output_folder, f"result.json"), "w") as f:
         json.dump(exp_json, f)
         
     pd_dict = {
@@ -144,7 +147,7 @@ def main():
         "fs_text_raw_answer": fs_text_responses,
         "fs_text_score": fs_text_gpt_scores
     }
-    df = pd.DataFrame(pd_dict)
+    result_df = pd.DataFrame(pd_dict)
 
     result_df = result_df.rename(columns = {"fs_text_score": "gpt_score"})
     GT_DIR = os.path.join(DATA_DIR, "hyper-kvasir", "ground_truths")
@@ -163,7 +166,7 @@ def main():
     result_df["gt_class"] = result_df["gt_score"].apply(lambda x: classify(x))
     result_df["gpt_class"] = result_df["gpt_score"].apply(lambda x: classify(x))
 
-    df.to_csv(os.path.join(save_folder, f"result.csv"))
+    result_df.to_csv(os.path.join(output_folder, "result.csv"))
 
     from sklearn.metrics import classification_report
     logger.info(classification_report(result_df["gt_score"], result_df["gpt_score"], digits=5))
@@ -171,3 +174,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+# python3 src/scripts/hyper-kvasir_experiment.py --output artifacts/hyper-kvasir/one-shot --prompts src/prompts/criteria.json --examples data/samples/example_1.JPG --description 
